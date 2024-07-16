@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Yasir</h1>
 <h3 align="center">A passionate Software Developer who wants to learn and explore</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" style="border-radius: 9px;">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" style="border-radius:15px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan&label=Profile%20views&color=0e75b6&style=flat" alt="hassan" /> </p>
 
